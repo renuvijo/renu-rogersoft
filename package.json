@@ -1,0 +1,14 @@
+{
+  "name": "renu-calculator",
+  "version": "1.0.0",
+  "main": "1datatypeChecker.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renu",
+  "license": "ISC",
+  "description": ""
+}
