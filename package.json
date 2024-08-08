@@ -1,5 +1,5 @@
 {
-  "name": "renu-rogersoft1",
+  "name": "renu-rogersoft2",
   "version": "1.0.0",
   "main": "calculator.js",
   "directories": {
@@ -10,8 +10,5 @@
   },
   "author": "renu",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    
-  }
+  "description": ""
 }
