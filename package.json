@@ -1,7 +1,7 @@
 {
-  "name": "renu-calculator",
+  "name": "renu-rogersoft",
   "version": "1.0.0",
-  "main": "1datatypeChecker.js",
+  "main": "calculator.js",
   "directories": {
     "test": "test"
   },
@@ -10,5 +10,8 @@
   },
   "author": "renu",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    
+  }
 }
